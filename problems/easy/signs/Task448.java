@@ -1,4 +1,4 @@
-package problems.easy.switching.signs;
+package problems.easy.signs;
 
 import java.util.ArrayList;
 import java.util.List;

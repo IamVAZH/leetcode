@@ -1,4 +1,4 @@
-package problems.easy.prefix.sum;
+package problems.medium.prefix.sum;
 
 import java.util.ArrayList;
 
